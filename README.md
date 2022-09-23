@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DominikaGagala
 - 👀 I’m interested in Automation Test.
-- 🌱 I’m currently learning JavaScript and Cypress.
+- 🌱 I’m currently learning JavaScript, TypeScript.
 - 📫 How to reach me : dominikagagala91@gmail.com :) 
 
 <!---
